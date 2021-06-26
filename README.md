@@ -1,6 +1,6 @@
 ### yata
+![cover-removebg-preview(2)](https://user-images.githubusercontent.com/86202527/123518599-99cf9280-d674-11eb-94da-d3657650f8a1.png)
 
-![cover](https://user-images.githubusercontent.com/86202527/123498616-1fb0f680-d5ff-11eb-9f68-3d09ed7da57e.png)
 
 
 We eat data 😋
