@@ -8,7 +8,7 @@ We eat data 😋
 
 ## Information
 
-Yata is a fast, simple and easy to use Data Visulaization tool, running on python dash. The main goal of Yata is to provide a easy way for persons with little programming knowledge to visualize their data easily. 
+Yata is a fast, simple and easy Data Visulaization tool, running on python dash. The main goal of Yata is to provide a easy way for persons with little programming knowledge to visualize their data easily. 
 
 
 ## Version 
