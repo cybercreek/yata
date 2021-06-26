@@ -15,7 +15,7 @@ Yata is a fast, simple and easy to use Data Visulaization tool, running on pytho
 
 ##  ``v1.0yata``
 
-This is Yata version 1. No way is it expected to work as we expected, it is the bare bones of the full application, you can test it out to get a general idea of how the script will work!.
+This is Yata version 1. No way is it expected to work as we expect, it is the bare bones of the full application, you can test it out to get a general idea of how the script will work!.
 
 
 ## Contribute
