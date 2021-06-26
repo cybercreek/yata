@@ -1,6 +1,7 @@
 ### yata
 
-![default](https://user-images.githubusercontent.com/86202527/123497172-0e192000-d5fa-11eb-823f-5fab37136bf6.png)
+![cover](https://user-images.githubusercontent.com/86202527/123498616-1fb0f680-d5ff-11eb-9f68-3d09ed7da57e.png)
+
 
 We eat data 😋
 
