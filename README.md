@@ -37,3 +37,21 @@ A windows version will be coming soon, stay on the look out for that.
     ./yatainstall.sh``
  * Run Yata
   ``python3 yata.py``
+
+
+
+## Quick Notes
+
+The current state of the program only accepts .csv files, I am working on new and more functionalities.
+
+
+
+
+## Information Sheet
+
+| Filetype | Supported |
+|---------|------------|
+| CSV     | Yes        |
+| TXT     | No         |
+| SQLITE  | No         |
+| DB      | No         |
